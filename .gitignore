@@ -1,0 +1,5 @@
+# 忽略 CLEVR 原始数据和处理后数据
+CLEVR_v1.0/images/
+CLEVR_v1.0/questions/
+CLEVR_v1.0/scenes/
+CLEVR_v1.0/processed/
